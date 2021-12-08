@@ -1,5 +1,5 @@
 # Lecture_React-Native
-### React-Native for CapstoneDesign1
+## React-Native for CapstoneDesign1
 
 
 ### Contents
