@@ -3,5 +3,5 @@
 
 
 ### Contents
-1. Weather: 현재 위치의 날씨를 보여주는 앱
+Weather: 현재 위치의 날씨를 보여주는 앱
 
